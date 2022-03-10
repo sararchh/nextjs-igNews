@@ -52,5 +52,9 @@
       }
     }
   }
+
+  > button {
+    margin-left: auto //Quando a margin é de algum lado e se da auto, o css tenta dar a maior margin que puder
+  }
 }
 
